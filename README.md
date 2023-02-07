@@ -1,5 +1,5 @@
 # test_1
-할미라 자꾸 까머거~
+할미라 자꾸 까머거~\n
 
 conda create -n py39 python=3.9
 conda env list
